@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+antenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
